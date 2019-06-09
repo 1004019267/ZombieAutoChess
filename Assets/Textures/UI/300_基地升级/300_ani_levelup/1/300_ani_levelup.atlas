@@ -1,0 +1,48 @@
+
+300_ani_levelup.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/000_ani_jiangpin_tx1
+  rotate: false
+  xy: 704, 793
+  size: 97, 97
+  orig: 99, 97
+  offset: 2, 0
+  index: -1
+images/effect/000_ani_jiangpin_tx2
+  rotate: false
+  xy: 413, 599
+  size: 289, 291
+  orig: 305, 307
+  offset: 8, 7
+  index: -1
+images/effect/000_ani_jiangpin_tx4
+  rotate: false
+  xy: 0, 0
+  size: 176, 153
+  orig: 176, 153
+  offset: 0, 0
+  index: -1
+images/effect/000_ani_jiangpin_tx5
+  rotate: false
+  xy: 413, 494
+  size: 102, 103
+  orig: 102, 103
+  offset: 0, 0
+  index: -1
+images/effect/000_ani_jiangpin_tx6
+  rotate: false
+  xy: 0, 155
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+images/effect/000_ani_jiangpin_tx7
+  rotate: false
+  xy: 0, 477
+  size: 411, 413
+  orig: 457, 457
+  offset: 22, 22
+  index: -1

@@ -1,0 +1,11 @@
+ {
+	"wandou": {
+	"name": "豌豆射手",
+	"HP": 10,
+	"gold": 100,
+	"attack": 1,
+	"attack_peed" :2,
+	"range": 3,
+	"slow" : false
+  }
+}

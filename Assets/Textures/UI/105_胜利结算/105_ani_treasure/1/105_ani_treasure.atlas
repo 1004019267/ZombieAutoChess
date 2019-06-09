@@ -1,0 +1,41 @@
+
+105_ani_treasure.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/105_ani_treasure
+  rotate: false
+  xy: 614, 74
+  size: 155, 139
+  orig: 155, 139
+  offset: 0, 0
+  index: -1
+images/105_ani_treasure_1
+  rotate: false
+  xy: 771, 79
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+images/105_ani_treasure_2
+  rotate: false
+  xy: 426, 75
+  size: 186, 138
+  orig: 186, 156
+  offset: 0, 18
+  index: -1
+images/105_ani_treasure_3
+  rotate: false
+  xy: 224, 13
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/105_ani_treasure_open
+  rotate: false
+  xy: 0, 0
+  size: 222, 213
+  orig: 222, 213
+  offset: 0, 0
+  index: -1

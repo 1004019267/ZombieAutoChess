@@ -1,0 +1,13 @@
+
+000_main_start.png
+size: 256,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/000_main_start
+  rotate: false
+  xy: 0, 0
+  size: 169, 29
+  orig: 169, 29
+  offset: 0, 0
+  index: -1

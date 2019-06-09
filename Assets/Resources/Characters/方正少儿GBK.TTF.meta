@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a65561aa271831f429bc05d449d40966
+timeCreated: 1554084813
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZShaoEr-M11
+  fontNames:
+  - FZShaoEr-M11
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

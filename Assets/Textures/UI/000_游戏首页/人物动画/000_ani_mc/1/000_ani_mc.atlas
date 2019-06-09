@@ -1,0 +1,48 @@
+
+000_ani_mc.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/000_ani_mc_body
+  rotate: true
+  xy: 337, 104
+  size: 69, 85
+  orig: 69, 85
+  offset: 0, 0
+  index: -1
+images/000_ani_mc_head
+  rotate: false
+  xy: 0, 62
+  size: 232, 192
+  orig: 232, 192
+  offset: 0, 0
+  index: -1
+images/000_ani_mc_lefthand
+  rotate: false
+  xy: 361, 175
+  size: 99, 79
+  orig: 99, 79
+  offset: 0, 0
+  index: -1
+images/000_ani_mc_leg
+  rotate: true
+  xy: 234, 0
+  size: 107, 71
+  orig: 107, 71
+  offset: 0, 0
+  index: -1
+images/000_ani_mc_righthand
+  rotate: false
+  xy: 234, 109
+  size: 101, 80
+  orig: 101, 80
+  offset: 0, 0
+  index: -1
+images/000_ani_mc_skirt
+  rotate: false
+  xy: 234, 191
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1

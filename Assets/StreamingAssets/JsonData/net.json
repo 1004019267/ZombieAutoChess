@@ -1,0 +1,11 @@
+{
+	"url":"http://api.tvsdk.cn/OTTGame/",
+	"privateKey":"36DDA110-6F01-4C12-9840-33DAEC6A12FC",
+	"key":"5479348661821466662",
+	"cpId":"tvc103",
+	"gameId":"tvg103032",
+	"bossId":"1006",
+	"g_ty_gameid": "loddyheidong",
+	"g_ty_loddyServerIp": "47.104.86.155",
+	"g_ty_loddyServerPort": 55004
+}

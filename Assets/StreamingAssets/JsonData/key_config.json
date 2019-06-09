@@ -1,0 +1,20 @@
+{
+    "ui_MessageBoxTestConfig": {
+    "btn_1": {
+      "left": null,
+      "right":  "btn_2",
+      "up": null,
+      "down": null
+    },
+    "btn_2": {
+      "left": "btn_1",
+      "right":  null,
+      "up":  null,
+      "down": null
+    }
+
+  }
+
+
+ 
+}

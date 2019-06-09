@@ -1,0 +1,20 @@
+
+001_ani_leftbutton.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/001_ani_button1
+  rotate: false
+  xy: 47, 12
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+images/001_ani_button2
+  rotate: false
+  xy: 0, 0
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1

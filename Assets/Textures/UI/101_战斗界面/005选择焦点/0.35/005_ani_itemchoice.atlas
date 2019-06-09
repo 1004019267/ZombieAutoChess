@@ -1,0 +1,13 @@
+
+005_ani_itemchoice.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/005_ani_itemchoice
+  rotate: false
+  xy: 0, 0
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1

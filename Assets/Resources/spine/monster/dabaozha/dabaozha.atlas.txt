@@ -1,0 +1,118 @@
+
+dabaozha.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fireball explosion_1
+  rotate: false
+  xy: 287, 240
+  size: 176, 132
+  orig: 176, 132
+  offset: 0, 0
+  index: -1
+fireball explosion_2
+  rotate: false
+  xy: 465, 374
+  size: 176, 132
+  orig: 176, 132
+  offset: 0, 0
+  index: -1
+fireball explosion_3
+  rotate: false
+  xy: 287, 106
+  size: 176, 132
+  orig: 176, 132
+  offset: 0, 0
+  index: -1
+fireball explosion_4
+  rotate: false
+  xy: 465, 240
+  size: 176, 132
+  orig: 176, 132
+  offset: 0, 0
+  index: -1
+fireball explosion_5
+  rotate: false
+  xy: 643, 374
+  size: 176, 132
+  orig: 176, 132
+  offset: 0, 0
+  index: -1
+fireball explosion_6
+  rotate: false
+  xy: 465, 106
+  size: 176, 132
+  orig: 176, 132
+  offset: 0, 0
+  index: -1
+fireball explosion_7
+  rotate: false
+  xy: 643, 240
+  size: 176, 132
+  orig: 176, 132
+  offset: 0, 0
+  index: -1
+fireball explosion_8
+  rotate: false
+  xy: 821, 374
+  size: 176, 132
+  orig: 176, 132
+  offset: 0, 0
+  index: -1
+fireball explosion_9
+  rotate: false
+  xy: 287, 374
+  size: 176, 132
+  orig: 176, 132
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 38
+  size: 283, 468
+  orig: 283, 468
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 2, 2
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 999, 465
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: true
+  xy: 287, 44
+  size: 60, 77
+  orig: 60, 77
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 643, 135
+  size: 72, 103
+  orig: 72, 103
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: false
+  xy: 717, 171
+  size: 98, 67
+  orig: 98, 67
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 821, 276
+  size: 77, 96
+  orig: 77, 96
+  offset: 0, 0
+  index: -1

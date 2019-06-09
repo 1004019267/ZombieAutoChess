@@ -1,0 +1,102 @@
+ {
+	"Zombie_Throw": {
+	"name": "僵尸投掷者",
+	"HP": 100,
+	"gold": 1,
+	"attack": 20,
+	"attack_speed" :0.8,
+	"move_speed" : 2,
+	"attack_range": 4,
+	"jineng": "普攻对敌方3个单位同时造成伤害"
+  },
+  "Zombie_Bucket": {
+	"name": "铁桶僵尸",
+	"HP": 200,
+	"gold": 1,
+	"attack": 10,
+	"attack_speed" :1,
+	"move_speed" : 2,
+	"attack_range": 1,
+	"jineng": "嘲讽敌方全体2秒，冷却10秒"
+  },
+  "Zombie_Master": {
+	"name": "僵尸法师",
+	"HP": 150,
+	"gold": 3,
+	"attack": 25,
+	"attack_speed" :1,
+	"move_speed" : 2,
+	"attack_range": 4,
+	"jineng": "发出一道尸毒波攻击敌方3个单位造成200%伤害，眩晕2秒，冷却10秒"
+  },
+  "Zombie_Summoner": {
+	"name": "僵尸召唤者",
+	"HP": 100,
+	"gold": 1,
+	"attack": 10,
+	"attack_speed" :1,
+	"move_speed" : 2,
+	"attack_range": 3,
+	"jineng": "每当我方有单位死亡时，从原地召唤一个僵尸傀儡。傀儡属性为40/50/60%(根据召唤者等级决定）"
+  },
+  "Zombie_Strut": {
+	"name": "撑杆僵尸",
+	"HP": 150,
+	"gold": 3,
+	"attack": 25,
+	"attack_speed" :0.8,
+	"move_speed" : 2,
+	"attack_range": 1,
+	"jineng": "用撑杆越过前排直接攻击后排"
+  },
+  "Zombie_Doctor": {
+	"name": "僵尸医生",
+	"HP": 120,
+	"gold": 2,
+	"attack": 10,
+	"attack_speed" :1,
+	"move_speed" : 2,
+	"attack_range": 3,
+	"jineng": "治疗我方全体一定血量，治疗量为自身血量上限的40%冷却10秒。"
+  },
+  "Zombie_Hammer": {
+	"name": "巨锤僵尸",
+	"HP": 150,
+	"gold": 4,
+	"attack": 30,
+	"attack_speed" :0.9,
+	"move_speed" : 2,
+	"attack_range": 1,
+	"jineng": "狂暴攻击相邻所有单位造成250%伤害，冷却10秒。"
+  },
+  "Zombie_corrosion": {
+	"name": "僵尸腐蚀者",
+	"HP": 170,
+	"gold": 2,
+	"attack": 20,
+	"attack_speed" :1,
+	"move_speed" : 2,
+	"attack_range": 1,
+	"jineng": "死亡产生爆炸对敌方全体造成自身血量上限30%伤害"
+  },
+  "Zombie_Giant": {
+	"name": "巨人僵尸",
+	"HP": 200,
+	"gold": 3,
+	"attack": 20,
+	"attack_speed" :1,
+	"move_speed" : 2,
+	"attack_range": 1,
+	"jineng": "冲撞遇到的僵尸到对方后排造成150%伤害，并眩晕2秒，冷却10秒"
+  },
+   "Zombie_Snowman": {
+	"name": "雪人僵尸",
+	"HP": 220,
+	"gold": 2,
+	"attack": 15,
+	"attack_speed" :1,
+	"move_speed" : 2,
+	"attack_range": 1,
+	"jineng": "回复自身20%上限血量，并提高免伤50%持续2秒，冷却10秒"
+  }
+}

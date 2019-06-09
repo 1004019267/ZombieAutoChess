@@ -1,0 +1,97 @@
+
+shoutuiche.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lunzi1
+  rotate: false
+  xy: 178, 97
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+lunzi2
+  rotate: false
+  xy: 334, 348
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 281, 366
+  size: 75, 128
+  orig: 75, 128
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 212
+  size: 277, 282
+  orig: 277, 282
+  offset: 0, 0
+  index: -1
+tuiche
+  rotate: false
+  xy: 2, 64
+  size: 174, 146
+  orig: 174, 146
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: false
+  xy: 240, 125
+  size: 46, 85
+  orig: 46, 85
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 281, 261
+  size: 51, 103
+  orig: 51, 103
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 99, 17
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: true
+  xy: 2, 2
+  size: 60, 95
+  orig: 60, 95
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: false
+  xy: 411, 411
+  size: 55, 83
+  orig: 55, 83
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: false
+  xy: 358, 392
+  size: 51, 102
+  orig: 51, 102
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: true
+  xy: 468, 431
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 178, 115
+  size: 60, 95
+  orig: 60, 95
+  offset: 0, 0
+  index: -1

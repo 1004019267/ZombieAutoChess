@@ -1,0 +1,209 @@
+
+000_ani_bg.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/000_ani_logo
+  rotate: false
+  xy: 521, 211
+  size: 185, 72
+  orig: 185, 72
+  offset: 0, 0
+  index: -1
+images/000_ani_logo_1
+  rotate: false
+  xy: 415, 141
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+images/ani_main_1
+  rotate: false
+  xy: 232, 282
+  size: 250, 228
+  orig: 250, 228
+  offset: 0, 0
+  index: -1
+images/ani_main_bg
+  rotate: false
+  xy: 0, 4
+  size: 228, 252
+  orig: 228, 252
+  offset: 0, 0
+  index: -1
+images/ani_main_bg2
+  rotate: false
+  xy: 787, 401
+  size: 219, 109
+  orig: 219, 109
+  offset: 0, 0
+  index: -1
+images/ani_main_bg3
+  rotate: false
+  xy: 484, 285
+  size: 224, 126
+  orig: 224, 126
+  offset: 0, 0
+  index: -1
+images/ani_main_bg_2
+  rotate: false
+  xy: 0, 258
+  size: 230, 252
+  orig: 230, 252
+  offset: 0, 0
+  index: -1
+images/ani_main_cloud1
+  rotate: false
+  xy: 232, 224
+  size: 287, 56
+  orig: 287, 56
+  offset: 0, 0
+  index: -1
+images/ani_main_cloud2
+  rotate: true
+  xy: 710, 284
+  size: 127, 69
+  orig: 127, 69
+  offset: 0, 0
+  index: -1
+images/ani_main_cloud3
+  rotate: false
+  xy: 484, 413
+  size: 301, 97
+  orig: 301, 98
+  offset: 0, 1
+  index: -1
+images/ani_main_hand1
+  rotate: false
+  xy: 640, 137
+  size: 26, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+images/ani_main_hand2
+  rotate: false
+  xy: 974, 358
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+images/ani_main_hand3
+  rotate: false
+  xy: 612, 136
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+images/ani_main_stone1
+  rotate: false
+  xy: 781, 343
+  size: 191, 56
+  orig: 191, 56
+  offset: 0, 0
+  index: -1
+images/ani_main_stone2
+  rotate: false
+  xy: 230, 169
+  size: 207, 53
+  orig: 207, 53
+  offset: 0, 0
+  index: -1
+images/ani_main_tree1
+  rotate: false
+  xy: 781, 292
+  size: 169, 49
+  orig: 169, 49
+  offset: 0, 0
+  index: -1
+images/ani_main_tree2
+  rotate: false
+  xy: 230, 90
+  size: 183, 77
+  orig: 183, 77
+  offset: 0, 0
+  index: -1
+images/eff/1/ani_eff_1
+  rotate: false
+  xy: 612, 177
+  size: 86, 32
+  orig: 86, 32
+  offset: 0, 0
+  index: -1
+images/eff/1/ani_eff_2
+  rotate: false
+  xy: 439, 195
+  size: 76, 27
+  orig: 77, 28
+  offset: 0, 1
+  index: -1
+images/eff/1/ani_eff_3
+  rotate: false
+  xy: 439, 170
+  size: 70, 23
+  orig: 71, 23
+  offset: 0, 0
+  index: -1
+images/eff/1/ani_overcast_3
+  rotate: false
+  xy: 230, 0
+  size: 130, 88
+  orig: 130, 88
+  offset: 0, 0
+  index: -1
+images/eff/1/ani_overcast_4
+  rotate: true
+  xy: 952, 230
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+images/eff/zidan10_10
+  rotate: true
+  xy: 791, 204
+  size: 86, 98
+  orig: 86, 100
+  offset: 0, 2
+  index: -1
+images/eff/zidan10_11
+  rotate: true
+  xy: 517, 126
+  size: 83, 93
+  orig: 84, 96
+  offset: 0, 3
+  index: -1
+images/eff/zidan10_12
+  rotate: false
+  xy: 950, 157
+  size: 72, 71
+  orig: 77, 71
+  offset: 1, 0
+  index: -1
+images/eff/zidan10_4
+  rotate: false
+  xy: 668, 146
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+images/eff/zidan10_5
+  rotate: true
+  xy: 891, 222
+  size: 68, 57
+  orig: 68, 57
+  offset: 0, 0
+  index: -1
+images/eff/zidan10_6
+  rotate: true
+  xy: 362, 1
+  size: 87, 69
+  orig: 87, 69
+  offset: 0, 0
+  index: -1
+images/eff/zidan10_9
+  rotate: false
+  xy: 708, 199
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+yuanchengbing.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ci
+  rotate: false
+  xy: 577, 151
+  size: 266, 343
+  orig: 266, 343
+  offset: 0, 0
+  index: -1
+ci_01
+  rotate: false
+  xy: 309, 151
+  size: 266, 343
+  orig: 266, 343
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: true
+  xy: 2, 72
+  size: 68, 175
+  orig: 68, 175
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 142
+  size: 305, 352
+  orig: 305, 352
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 845, 369
+  size: 108, 125
+  orig: 108, 125
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 891, 332
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 114, 43
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: true
+  xy: 43, 35
+  size: 35, 69
+  orig: 35, 69
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 2, 2
+  size: 39, 68
+  orig: 39, 68
+  offset: 0, 0
+  index: -1
+youshouzhang
+  rotate: false
+  xy: 1001, 401
+  size: 15, 44
+  orig: 15, 44
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 845, 252
+  size: 23, 52
+  orig: 23, 52
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 845, 306
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: true
+  xy: 955, 447
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: false
+  xy: 179, 72
+  size: 39, 68
+  orig: 39, 68
+  offset: 0, 0
+  index: -1
+zuoshouzhang
+  rotate: true
+  xy: 43, 6
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: false
+  xy: 220, 95
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 955, 384
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1

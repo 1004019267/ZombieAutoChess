@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9b85d104b23efe34b95535b3cdfa1514
+timeCreated: 1547430851
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZYunDongHeiS-H-GB
+  fontNames:
+  - FZYunDongHeiS-H-GB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

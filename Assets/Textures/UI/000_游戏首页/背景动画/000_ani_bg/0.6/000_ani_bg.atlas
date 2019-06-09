@@ -1,0 +1,55 @@
+
+000_ani_bg.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/000_ani_logo
+  rotate: false
+  xy: 386, 20
+  size: 250, 75
+  orig: 250, 75
+  offset: 0, 0
+  index: -1
+images/ani_main_bg
+  rotate: false
+  xy: 0, 0
+  size: 384, 95
+  orig: 384, 95
+  offset: 0, 0
+  index: -1
+images/ani_main_bg2
+  rotate: false
+  xy: 0, 97
+  size: 768, 343
+  orig: 768, 343
+  offset: 0, 0
+  index: -1
+images/ani_main_bg3
+  rotate: false
+  xy: 638, 0
+  size: 216, 95
+  orig: 216, 95
+  offset: 0, 0
+  index: -1
+images/ani_main_bg4
+  rotate: false
+  xy: 770, 263
+  size: 177, 177
+  orig: 180, 180
+  offset: 2, 1
+  index: -1
+images/ani_main_tree1
+  rotate: true
+  xy: 912, 124
+  size: 137, 106
+  orig: 137, 106
+  offset: 0, 0
+  index: -1
+images/ani_main_tree2
+  rotate: false
+  xy: 770, 118
+  size: 140, 143
+  orig: 140, 143
+  offset: 0, 0
+  index: -1

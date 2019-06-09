@@ -1,0 +1,69 @@
+
+002_ani_trevor.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/001_ani_face1
+  rotate: false
+  xy: 171, 59
+  size: 89, 29
+  orig: 89, 29
+  offset: 0, 0
+  index: -1
+images/001_ani_face2
+  rotate: true
+  xy: 141, 0
+  size: 88, 28
+  orig: 89, 29
+  offset: 1, 1
+  index: -1
+images/001_ani_trevor
+  rotate: false
+  xy: 0, 90
+  size: 260, 420
+  orig: 260, 420
+  offset: 0, 0
+  index: -1
+images/youshou_1
+  rotate: false
+  xy: 262, 152
+  size: 94, 185
+  orig: 94, 185
+  offset: 0, 0
+  index: -1
+images/youshou_2
+  rotate: false
+  xy: 0, 25
+  size: 139, 63
+  orig: 139, 63
+  offset: 0, 0
+  index: -1
+images/youshou_3
+  rotate: false
+  xy: 386, 383
+  size: 95, 127
+  orig: 95, 127
+  offset: 0, 0
+  index: -1
+images/zuoshou_1
+  rotate: false
+  xy: 262, 339
+  size: 122, 171
+  orig: 122, 171
+  offset: 0, 0
+  index: -1
+images/zuoshou_2
+  rotate: false
+  xy: 262, 38
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+images/zuoshou_3
+  rotate: true
+  xy: 386, 287
+  size: 94, 103
+  orig: 94, 103
+  offset: 0, 0
+  index: -1

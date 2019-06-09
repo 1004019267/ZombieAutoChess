@@ -1,0 +1,20 @@
+
+100_ani_stagechoice.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/000_ani_schoice
+  rotate: false
+  xy: 0, 0
+  size: 90, 135
+  orig: 90, 135
+  offset: 0, 0
+  index: -1
+images/000_ani_schoice1
+  rotate: false
+  xy: 92, 0
+  size: 90, 135
+  orig: 90, 135
+  offset: 0, 0
+  index: -1

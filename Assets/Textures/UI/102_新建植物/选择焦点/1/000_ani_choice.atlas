@@ -1,0 +1,27 @@
+
+000_ani_choice.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/090_ani_mudidi_1
+  rotate: false
+  xy: 131, 37
+  size: 112, 76
+  orig: 112, 80
+  offset: 0, 0
+  index: -1
+image/090_ani_mudidi_2
+  rotate: true
+  xy: 0, 0
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+image/090_ani_mudidi_3
+  rotate: false
+  xy: 0, 53
+  size: 129, 60
+  orig: 133, 66
+  offset: 2, 0
+  index: -1

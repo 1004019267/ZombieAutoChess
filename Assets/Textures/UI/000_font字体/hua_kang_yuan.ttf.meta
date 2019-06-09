@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: be8ab353a30b1494ba92487e4265c250
+timeCreated: 1547432025
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DFYuanW9-GB
+  fontNames:
+  - DFYuanW9-GB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,83 @@
+
+shuiguan_weapon.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qugan
+  rotate: false
+  xy: 281, 382
+  size: 75, 128
+  orig: 75, 128
+  offset: 0, 0
+  index: -1
+shuiguan_01
+  rotate: false
+  xy: 2, 99
+  size: 121, 127
+  orig: 121, 127
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 228
+  size: 277, 282
+  orig: 277, 282
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: false
+  xy: 178, 141
+  size: 46, 85
+  orig: 46, 85
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 125, 123
+  size: 51, 103
+  orig: 51, 103
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 415, 465
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 2, 2
+  size: 60, 95
+  orig: 60, 95
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: false
+  xy: 358, 427
+  size: 55, 83
+  orig: 55, 83
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: false
+  xy: 281, 278
+  size: 51, 102
+  orig: 51, 102
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: true
+  xy: 226, 163
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 64, 2
+  size: 60, 95
+  orig: 60, 95
+  offset: 0, 0
+  index: -1
